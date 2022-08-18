@@ -1,6 +1,6 @@
 ## Hello, glad to see you here 👋
 
-I'm Gabriel, and I've been working very hard to become a Web Developer. Today, I'm still working on a few projects to learn even more each day and looking into opportunities to get my very first job on this area.
+I'm Gabriel, and I've been working very hard to become a Web Developer. Currently, I'm still working on a few projects to learn even more each day and looking into opportunities to get my very first job on this field.
 
 <br/>
 
