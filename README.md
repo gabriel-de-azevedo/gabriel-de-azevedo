@@ -4,7 +4,7 @@
 
 <br/>
 
-### These are a few of the programming languages and frameworks I already have some experience with:
+### These are a few programming languages and frameworks I already have some experience with:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +20,7 @@
 
 <br/>
 
-### Some tools I had to learn as a developer:
+### Some of the tools I had to learn as a developer:
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
