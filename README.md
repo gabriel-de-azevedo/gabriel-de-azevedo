@@ -1,8 +1,8 @@
-# Hello, glad to see you here 👋
+### Hello, glad to see you here 👋
 
-### I'm Gabriel, and I've been working very hard to become a Web Developer. Currently, I'm still working on a few projects to learn even more each day and looking into opportunities to get my very first job on this field.
+I'm Gabriel, and I've been working very hard to become a Web Developer. Currently, I'm still working on a few projects to learn even more each day and looking into opportunities to get my very first job on this field.
 
-<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-de-azevedo&count_private=true&theme=material-palenight&show_icons=true)
 
 ### These are a few programming languages and frameworks I already have some experience with:
 
@@ -18,9 +18,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-<br/>
-
-### Some of the tools I had to learn as a developer:
+### And some of the tools I had to learn as a developer:
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,12 +43,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<br/>
-
-### And my current GitHub stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-de-azevedo&count_private=true&theme=material-palenight&show_icons=true)
 
 <!-- ## Get in contact with me:
 
