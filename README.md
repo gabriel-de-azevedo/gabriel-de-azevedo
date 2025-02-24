@@ -1,27 +1,13 @@
-<h1>Hi. I'm<br />Gabriel.</h1>
-<p>I'm an amateur Digital Writer and professional Web Developer!</p>
+# _Hi. I'm<br/>Gabriel_
+
+I'm an amateur Digital Writer and professional Web Developer!
+
 <br />
-<h2>Here are some of my favorite projects:</h2>
-<ul>
-  <li>
-    <a href="https://gabriel-de-azevedo.github.io/contact-form/" target="_blank"
-      >Contact form with client-side validation built with React and Tailwind
-      CSS</a
-    >
-  </li>
-  <li>
-    <a
-      href="https://gabriel-de-azevedo.github.io/recipe-page-main/"
-      target="_blank"
-      >Recipe page that changes it's design based on the screen size</a
-    >
-  </li>
-  <li>
-    <a
-      href="https://gabriel-de-azevedo.github.io/blog-preview-card-main/"
-      target="_blank"
-      >Preview card built with responsive units that changes in size by altering
-      a single property</a
-    >
-  </li>
-</ul>
+
+### _Here are some of my favorite projects:_
+
+<hr />
+
+- [_Contact form with client-side validation built using React and Tailwind CSS_](https://gabriel-de-azevedo.github.io/contact-form/)
+- [_Recipe page that changes it's banner based on the screen size_](https://gabriel-de-azevedo.github.io/recipe-page-main/)
+- [_Preview card built with responsive units that changes in size by altering a single property_](https://gabriel-de-azevedo.github.io/blog-preview-card-main/)
