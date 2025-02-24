@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <section>
+        <h1>Hi. I'm<br />Gabriel.</h1>
+        <hr />
+        <p>I'm an amateur Digital Writer and professional Web Developer</p>
+      </section>
+    </header>
+    <main>
+      <ul>
+        <li style="grid-column: 1 / span 2; grid-row: 1 / span 2">1</li>
+        <li>2</li>
+        <li>3</li>
+        <li style="grid-column: 3 / span 2">4</li>
+      </ul>
+    </main>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      ul,
+      li {
+        list-style: none;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        gap: 3em;
+        padding: 3em;
+        font-size: 1.5rem;
+        font-family: Arial, Helvetica, sans-serif;
+        background: black;
+        color: white;
+      }
+      header {
+        display: grid;
+        place-items: center;
+      }
+      header section {
+        display: flex;
+        gap: 2em;
+        text-align: center;
+      }
+
+      header h1 {
+        font-size: 3em;
+        width: 100%;
+      }
+      header p {
+        display: grid;
+        place-items: center;
+        width: 100%;
+      }
+      main ul {
+        display: grid;
+        gap: 0.5em;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+      }
+      main li {
+        background-color: white;
+        color: black;
+        padding: 1em;
+        border-radius: 2em;
+      }
+    </style>
+  </body>
+</html>
