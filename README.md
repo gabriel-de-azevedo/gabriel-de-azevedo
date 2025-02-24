@@ -1,6 +1,6 @@
 # _Hi. I'm<br/>Gabriel_
 
-I'm a professional Web Developer and amateur Digital Writer!
+A professional Web Developer and amateur Digital Writer!
 
 <br />
 
